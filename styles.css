@@ -180,6 +180,12 @@ footer .social-links a:hover {
     font-size: 28px;
   }
 }
+.skills-and-tools {
+}
+.skills-and-tools i {
+  font-size: 42px;
+  padding: 10px;
+}
 
 @media (max-width: 767px) {
   nav .logo {
